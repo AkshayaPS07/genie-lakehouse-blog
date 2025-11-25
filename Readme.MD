@@ -1,0 +1,1 @@
+With Databricks Genie Data Rooms and Lakeview Dashboards, AI-powered BI becomes reality. In this blog, we’ll show how you can create an interactive, governed BI experience in minutes—no heavy coding required.
